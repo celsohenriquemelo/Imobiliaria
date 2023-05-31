@@ -1,0 +1,132 @@
+body{
+    margin: 0;
+    font-family: tahoma;
+}
+
+
+/* === Estilos Globais ===*/
+.secao{
+    padding-top: 30px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.paragrafo{
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+/* === 1ª seção === */
+.logo{
+
+        background-color: #afddfb;
+}
+
+.paragrafo-logo{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+.logo img{
+    width: 150px;
+}
+
+.logo a{
+    color: #1d1d1d;
+    font-size: 18px;
+    text-decoration: none;
+    margin: 0 10px;
+    border-bottom: 2px solid #1d1d1d;
+}
+
+/* === 2ª seção ===*/
+
+.banner{
+    padding-top: 0;
+    margin-top: 50px;
+}
+
+/* === 3ª seção ===*/
+
+h1{
+    color:#1d1d1d;
+    margin-bottom: 5px;
+}
+
+h2{
+    font-weight: normal;
+    color: #1c81c0;
+    margin-top: 0;
+}
+
+.imagem-descricao{
+    width: 450px;
+}
+
+/* === 4ª seção ===*/
+
+.servicos, .contatos{
+    background-color: #1d80c1;
+}
+
+h3{
+    color: #ffffff;
+}
+
+.paragrafo-servicos{
+    color: #ffffff;
+    line-height: 42px;
+    width: 700px;
+    font-size: 22px;
+    text-align: center;
+}
+
+.lista-servicos{
+    width: 135px;
+    margin: 40px auto 40px;
+}
+
+.item-lista-servicos{
+    font-size: 22px;
+    line-height: 42px;
+    text-align: left;
+    color: #fff;
+}
+
+/* === 6ª seção === */
+
+.paragrafo-contatos{
+    color: #fff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.lista-contato {
+    width: 210px;
+    list-style: none;
+    margin: 40px auto 40px;
+}
+
+.item-lista-contato {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.link-contato {
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+
+iframe{
+    width: 800px;
+    height: 400px;
+}
